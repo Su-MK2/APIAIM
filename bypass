@@ -1,13 +1,13 @@
 {
-   "page" : {
-      "id" : "ntfwm21l4wbw",
-      "name" : "Cfxre",
-      "time_zone" : "Etc/UTC",
-      "updated_at" : "2025-10-02T22:46:02.989Z",
-      "url" : "https://status.cfx.re"
-   },
-   "status" : {
-      "description" : "All Systems Operational",
-      "indicator" : "none"
+   "message" : "Đăng ký thành công! Vui lòng kiểm tra email để xác thực tài khoản.",
+   "user" : {
+      "createdAt" : "2025-10-05T07:51:01.283Z",
+      "email" : "sunwin113@gmail.com",
+      "emailVerificationExpires" : "2025-10-06T07:51:01.173Z",
+      "emailVerified" : true,
+      "id" : "25509d86-a610-4f24-af2c-06b77a21e450",
+      "license" : "ab55eeb67ed7f8d457226abc990a82fdb5d0f7c6",
+      "updatedAt" : "2025-10-05T07:51:01.283Z",
+      "username" : "sunwin113"
    }
 }
